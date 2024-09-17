@@ -1,0 +1,3 @@
+[console_scripts]
+covid_data_wragling = main.__main__:main
+
